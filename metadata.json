@@ -1,0 +1,6 @@
+{
+  "name": "Markety Studio — Premium Website Marketplace",
+  "description": "Discover and purchase ready-made websites, ecommerce stores, business platforms, portfolios, and AI web applications for teams in Pakistan and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
